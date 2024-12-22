@@ -1,0 +1,7 @@
+<style>
+    .img-small {
+        width: 50px; /* Define el ancho de la imagen */
+        height: 50px; /* Define el alto de la imagen */
+        object-fit: contain; /* Ajusta el contenido sin distorsionar */
+    }
+</style>
